@@ -1,4 +1,4 @@
-package com.example.springbootwarsawweatherapp.api;
+package com.example.springbootwarsawweatherapp.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

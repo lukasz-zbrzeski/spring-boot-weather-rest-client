@@ -1,4 +1,4 @@
-package com.example.springbootwarsawweatherapp.api;
+package com.example.springbootwarsawweatherapp.model;
 
 import java.util.List;
 import com.google.gson.annotations.Expose;
